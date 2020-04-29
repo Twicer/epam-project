@@ -1,0 +1,24 @@
+.:
+drwxrwxr-x 2 asemencha asemencha 4.0K Apr 29 19:19 .
+drwxr-xr-x 9 asemencha asemencha 4.0K Apr 28 08:28 ..
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 file
+-rwxrwxr-x 1 asemencha asemencha  806 Apr 29 19:00 file01.sh
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:37 file.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 name
+-rw-rw-r-- 1 asemencha asemencha  867 Apr 29 19:02 rez02A.txt
+-rw-rw-r-- 1 asemencha asemencha  854 Apr 29 19:02 rez02B.txt
+-rw-rw-r-- 1 asemencha asemencha  461 Apr 29 18:14 rez02.txt
+-rw-rw-r-- 1 asemencha asemencha 1.1K Apr 29 19:02 rez03.txt
+-rw-rw-r-- 1 asemencha asemencha  386 Apr 29 19:02 rez04.txt
+-rw-rw-r-- 1 asemencha asemencha  111 Apr 29 19:02 rez05.txt
+-rw-rw-r-- 1 asemencha asemencha  196 Apr 29 19:02 rez06.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 rezult.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 test
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:37 test.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 text
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:12 text01.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:12 text02.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:12 text03.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:37 text.txt
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 19:19 user
+-rw-rw-r-- 1 asemencha asemencha    0 Apr 29 18:37 user.txt

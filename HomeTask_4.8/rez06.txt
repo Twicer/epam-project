@@ -1,0 +1,17 @@
+.
+./rez06.txt
+./text.txt
+./file.txt
+./rezult.txt
+./rez02A.txt
+./test.txt
+./rez02B.txt
+./text02.txt
+./file01.sh
+./text01.txt
+./rez03.txt
+./text03.txt
+./rez05.txt
+./rez02.txt
+./user.txt
+./rez04.txt

@@ -1,0 +1,11 @@
+.:
+total 20K
+drwxrwxr-x 2 alex alex 4.0K Apr 29 18:14 .
+drwxr-xr-x 9 alex alex 4.0K Apr 28 08:28 ..
+-rwxrwxr-x 1 alex alex  106 Apr 29 18:14 file01.sh
+-rwxrwxr-x 1 alex alex   57 Apr 28 16:27 file02.sh
+-rwxrwxr-x 1 alex alex   55 Apr 28 16:27 file03.sh
+-rw-rw-r-- 1 alex alex    0 Apr 29 18:14 rezult.txt
+-rw-rw-r-- 1 alex alex    0 Apr 29 18:12 text01.txt
+-rw-rw-r-- 1 alex alex    0 Apr 29 18:12 text02.txt
+-rw-rw-r-- 1 alex alex    0 Apr 29 18:12 text03.txt

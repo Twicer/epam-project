@@ -1,0 +1,25 @@
+   
+   
+Apr 29 19:19 .
+Apr 28 08:28 ..
+Apr 29 19:19 file
+Apr 29 19:00 file01.sh
+Apr 29 18:37 file.txt
+Apr 29 19:19 name
+Apr 29 19:02 rez02A.txt
+Apr 29 19:02 rez02B.txt
+Apr 29 18:14 rez02.txt
+Apr 29 19:02 rez03.txt
+Apr 29 19:02 rez04.txt
+Apr 29 19:02 rez05.txt
+Apr 29 19:02 rez06.txt
+Apr 29 19:19 rezult.txt
+Apr 29 19:19 test
+Apr 29 18:37 test.txt
+Apr 29 19:19 text
+Apr 29 18:12 text01.txt
+Apr 29 18:12 text02.txt
+Apr 29 18:12 text03.txt
+Apr 29 18:37 text.txt
+Apr 29 19:19 user
+Apr 29 18:37 user.txt

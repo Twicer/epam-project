@@ -1,0 +1,9 @@
+./rez06.txt
+./text02.txt
+./file01.sh
+./text01.txt
+./rez03.txt
+./text03.txt
+./rez05.txt
+./rez02.txt
+./rez04.txt
