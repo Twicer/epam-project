@@ -1,0 +1,6 @@
+root      187124  0.0  0.0   7236  3336 ?        Ss   Apr28   6:22 /bin/bash /snap/microk8s/1378/apiservice-kicker
+root      187185  0.0  0.0   6972  2468 ?        Ss   Apr28   0:00 /bin/bash /snap/microk8s/1378/run-cluster-agent-with-args
+asemenc+  220272  0.0  0.1   8508  5280 pts/0    Ss   09:47   0:00 -bash
+asemenc+  223788  0.0  0.1   8396  5216 pts/0    S    09:54   0:00 /bin/bash
+asemenc+  258526  0.0  0.0   6892  3160 pts/0    S+   11:10   0:00 /bin/bash ./file01.sh
+asemenc+  258528  0.0  0.0   6432   736 pts/0    S+   11:10   0:00 grep bash

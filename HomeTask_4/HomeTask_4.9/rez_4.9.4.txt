@@ -1,0 +1,23 @@
+Start directory = /home/asemencha
++---docrep
+|   +---redisrep
++---scripts
+|   +---oldScripts
+|   +---temp
++---snap
+|   +---docker
+|   |   +---423
+|   |   +---common
+|   |   +---current -> 423
+|   +---kubectl
+|   |   +---1506
+|   |   +---common
+|   |   +---current -> 1506
+|   +---microk8s
+|   |   +---1341
+|   |   |   +---tmp
+|   |   +---1378
+|   |   |   +---tmp
+|   |   +---common
+|   |   +---current -> 1341
+Total Directories = 18
