@@ -5,13 +5,7 @@
 
 exitCode=quit
 
-while true
+while [ "$value" != "$exitCode" ]
 do
-    read -p "Enter a value: " value
-    if [ $# -eq 0] || ["$value" -ne "$exitCode"]
-    then
-        continue
-    else
-        exit 0
-    fi
+  read -p "Enter a value: " value
 done
