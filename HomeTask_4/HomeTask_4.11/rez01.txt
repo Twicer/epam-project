@@ -1,0 +1,2 @@
+/usr/bin/snap
+/usr/lib/firmware/liquidio/lio_23xx_vsw.bin

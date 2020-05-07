@@ -1,0 +1,6 @@
+/home/asemencha/.bashrc
+/home/asemencha/.profile
+/home/asemencha/.sudo_as_admin_successful
+/home/asemencha/.bash_logout
+/home/asemencha/.bash_history
+/home/asemencha/.selected_editor

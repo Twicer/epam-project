@@ -1,0 +1,7 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+asemenc+ 1064476       1  0 09:42 ?        00:00:00 /lib/systemd/systemd --user
+asemenc+ 1064480 1064476  0 09:42 ?        00:00:00 (sd-pam)
+asemenc+ 1064618 1064461  0 09:42 ?        00:00:00 sshd: asemencha@pts/0
+asemenc+ 1064619 1064618  0 09:42 pts/0    00:00:00 -bash
+asemenc+ 1095404 1064619  0 10:49 pts/0    00:00:00 /bin/bash ./script04.sh
+asemenc+ 1095408 1095404  0 10:49 pts/0    00:00:00 ps -fu asemencha

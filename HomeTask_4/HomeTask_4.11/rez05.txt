@@ -1,0 +1,12 @@
+top - 11:46:29 up 1 day, 16:38,  1 user,  load average: 0.16, 0.21, 0.24
+Tasks: 184 total,   1 running, 183 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  1.6 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3883.1 total,    144.7 free,   1224.1 used,   2514.4 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   2560.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2452 root      20   0 2366248 322924  72192 S   6.2   8.1 250:47.77 kube-apiserver
+   2256 root      20   0   10.3g 166712  21396 S   0.0   4.2 135:15.99 etcd
+    955 root      20   0  810432 100240  62144 S   6.2   2.5 149:01.09 kube-controller
+   2586 root      20   0 2143600  93728  63708 S   0.0   2.4  90:22.22 kubelet
+    938 root      20   0 1030596  78936  43676 S   0.0   2.0  11:54.29 dockerd

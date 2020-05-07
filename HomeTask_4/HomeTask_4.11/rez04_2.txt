@@ -1,0 +1,177 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 May05 ?        00:02:28 /sbin/init
+root           2       0  0 May05 ?        00:00:00 [kthreadd]
+root           3       2  0 May05 ?        00:00:00 [rcu_gp]
+root           4       2  0 May05 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 May05 ?        00:00:00 [kworker/0:0H-kblockd]
+root           8       2  0 May05 ?        00:00:00 [mm_percpu_wq]
+root           9       2  0 May05 ?        00:00:02 [ksoftirqd/0]
+root          10       2  0 May05 ?        00:02:01 [rcu_sched]
+root          11       2  0 May05 ?        00:00:01 [migration/0]
+root          12       2  0 May05 ?        00:00:00 [idle_inject/0]
+root          14       2  0 May05 ?        00:00:00 [cpuhp/0]
+root          15       2  0 May05 ?        00:00:00 [cpuhp/1]
+root          16       2  0 May05 ?        00:00:00 [idle_inject/1]
+root          17       2  0 May05 ?        00:00:01 [migration/1]
+root          18       2  0 May05 ?        00:00:01 [ksoftirqd/1]
+root          20       2  0 May05 ?        00:00:00 [kworker/1:0H-kblockd]
+root          21       2  0 May05 ?        00:00:00 [cpuhp/2]
+root          22       2  0 May05 ?        00:00:00 [idle_inject/2]
+root          23       2  0 May05 ?        00:00:01 [migration/2]
+root          24       2  0 May05 ?        00:00:01 [ksoftirqd/2]
+root          26       2  0 May05 ?        00:00:00 [kworker/2:0H-kblockd]
+root          27       2  0 May05 ?        00:00:00 [cpuhp/3]
+root          28       2  0 May05 ?        00:00:00 [idle_inject/3]
+root          29       2  0 May05 ?        00:00:01 [migration/3]
+root          30       2  0 May05 ?        00:00:01 [ksoftirqd/3]
+root          32       2  0 May05 ?        00:00:00 [kworker/3:0H-kblockd]
+root          33       2  0 May05 ?        00:00:00 [cpuhp/4]
+root          34       2  0 May05 ?        00:00:00 [idle_inject/4]
+root          35       2  0 May05 ?        00:00:01 [migration/4]
+root          36       2  0 May05 ?        00:00:01 [ksoftirqd/4]
+root          38       2  0 May05 ?        00:00:00 [kworker/4:0H-kblockd]
+root          39       2  0 May05 ?        00:00:00 [cpuhp/5]
+root          40       2  0 May05 ?        00:00:00 [idle_inject/5]
+root          41       2  0 May05 ?        00:00:01 [migration/5]
+root          42       2  0 May05 ?        00:00:01 [ksoftirqd/5]
+root          44       2  0 May05 ?        00:00:00 [kworker/5:0H-kblockd]
+root          45       2  0 May05 ?        00:00:00 [cpuhp/6]
+root          46       2  0 May05 ?        00:00:00 [idle_inject/6]
+root          47       2  0 May05 ?        00:00:01 [migration/6]
+root          48       2  0 May05 ?        00:00:01 [ksoftirqd/6]
+root          50       2  0 May05 ?        00:00:00 [kworker/6:0H-kblockd]
+root          51       2  0 May05 ?        00:00:00 [cpuhp/7]
+root          52       2  0 May05 ?        00:00:00 [idle_inject/7]
+root          53       2  0 May05 ?        00:00:01 [migration/7]
+root          54       2  0 May05 ?        00:00:01 [ksoftirqd/7]
+root          56       2  0 May05 ?        00:00:00 [kworker/7:0H-kblockd]
+root          57       2  0 May05 ?        00:00:00 [kdevtmpfs]
+root          58       2  0 May05 ?        00:00:00 [netns]
+root          59       2  0 May05 ?        00:00:00 [rcu_tasks_kthre]
+root          60       2  0 May05 ?        00:00:00 [kauditd]
+root          65       2  0 May05 ?        00:00:00 [khungtaskd]
+root          66       2  0 May05 ?        00:00:00 [oom_reaper]
+root          67       2  0 May05 ?        00:00:00 [writeback]
+root          68       2  0 May05 ?        00:00:00 [kcompactd0]
+root          69       2  0 May05 ?        00:00:00 [ksmd]
+root          70       2  0 May05 ?        00:00:00 [khugepaged]
+root         163       2  0 May05 ?        00:00:00 [kintegrityd]
+root         164       2  0 May05 ?        00:00:00 [kblockd]
+root         165       2  0 May05 ?        00:00:00 [blkcg_punt_bio]
+root         170       2  0 May05 ?        00:00:00 [tpm_dev_wq]
+root         171       2  0 May05 ?        00:00:00 [ata_sff]
+root         172       2  0 May05 ?        00:00:00 [md]
+root         173       2  0 May05 ?        00:00:00 [edac-poller]
+root         174       2  0 May05 ?        00:00:00 [devfreq_wq]
+root         175       2  0 May05 ?        00:00:00 [watchdogd]
+root         179       2  0 May05 ?        00:00:00 [kswapd0]
+root         180       2  0 May05 ?        00:00:00 [ecryptfs-kthrea]
+root         183       2  0 May05 ?        00:00:00 [kthrotld]
+root         184       2  0 May05 ?        00:00:00 [acpi_thermal_pm]
+root         186       2  0 May05 ?        00:00:00 [vfio-irqfd-clea]
+root         187       2  0 May05 ?        00:00:00 [ipv6_addrconf]
+root         198       2  0 May05 ?        00:00:00 [kstrp]
+root         202       2  0 May05 ?        00:00:00 [kworker/u481:0]
+root         218       2  0 May05 ?        00:00:00 [charger_manager]
+root         264       2  0 May05 ?        00:00:00 [hv_vmbus_con]
+root         265       2  0 May05 ?        00:00:00 [hv_pri_chan]
+root         266       2  0 May05 ?        00:00:00 [hv_sub_chan]
+root         281       2  0 May05 ?        00:00:00 [scsi_eh_0]
+root         282       2  0 May05 ?        00:00:00 [scsi_tmf_0]
+root         283       2  0 May05 ?        00:00:00 [storvsc_error_w]
+root         296       2  0 May05 ?        00:00:00 [kdmflush]
+root         331       2  0 May05 ?        00:00:00 [raid5wq]
+root         371       2  0 May05 ?        00:00:31 [jbd2/dm-0-8]
+root         372       2  0 May05 ?        00:00:00 [ext4-rsv-conver]
+root         424       2  0 May05 ?        00:00:01 [kworker/3:1H-kblockd]
+root         437       2  0 May05 ?        00:00:01 [kworker/4:1H-kblockd]
+root         442       1  0 May05 ?        00:00:34 /lib/systemd/systemd-journald
+root         460       2  0 May05 ?        00:00:01 [kworker/5:1H-kblockd]
+root         461       2  0 May05 ?        00:00:08 [kworker/2:1H-kblockd]
+root         469       2  0 May05 ?        00:00:06 [kworker/0:1H-kblockd]
+root         472       2  0 May05 ?        00:00:13 bpfilter_umh
+root         495       1  0 May05 ?        00:00:10 /lib/systemd/systemd-udevd
+root         576       2  0 May05 ?        00:00:07 [hv_balloon]
+root         577       1  0 May05 ?        00:00:00 /usr/lib/linux-tools/5.4.0-29-generic/hv_kvp_daemon -n
+root         618       2  0 May05 ?        00:00:01 [kworker/6:1H-kblockd]
+root         737       2  0 May05 ?        00:00:00 [kaluad]
+root         738       2  0 May05 ?        00:00:00 [kmpath_rdacd]
+root         739       2  0 May05 ?        00:00:00 [kmpathd]
+root         740       2  0 May05 ?        00:00:00 [kmpath_handlerd]
+root         741       1  0 May05 ?        00:00:28 /sbin/multipathd -d -s
+root         751       2  0 May05 ?        00:00:00 [loop0]
+root         752       2  0 May05 ?        00:00:00 [jbd2/sda2-8]
+root         753       2  0 May05 ?        00:00:00 [ext4-rsv-conver]
+root         756       2  0 May05 ?        00:00:01 [kworker/7:1H-kblockd]
+root         757       2  0 May05 ?        00:00:00 [loop1]
+root         759       2  0 May05 ?        00:00:00 [loop2]
+root         761       2  0 May05 ?        00:00:00 [loop3]
+root         764       2  0 May05 ?        00:00:00 [loop4]
+root         767       2  0 May05 ?        00:00:01 [kworker/1:1H-kblockd]
+root         769       2  0 May05 ?        00:00:00 [loop5]
+root         772       2  0 May05 ?        00:00:00 [loop7]
+root         773       2  0 May05 ?        00:00:00 [loop8]
+root         774       2  0 May05 ?        00:00:00 [loop9]
+root         904       1  0 May05 ?        00:00:11 /usr/lib/accountsservice/accounts-daemon
+root         911       1  0 May05 ?        00:00:00 /usr/sbin/cron -f
+root         919       1  0 May05 ?        00:00:00 /usr/lib/linux-tools/5.4.0-29-generic/hv_fcopy_daemon -n
+root         921       1  0 May05 ?        00:00:00 /usr/lib/linux-tools/5.4.0-29-generic/hv_vss_daemon -n
+root         930       1  0 May05 ?        00:00:06 /usr/sbin/irqbalance --foreground
+root         931       1  0 May05 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         938       1  0 May05 ?        00:11:37 dockerd -G docker --exec-root=/var/snap/docker/423/run/docker --data-root=/var/snap/docker/common/var-lib-docker --pidfile=/var/snap/docker/423/run/docker.pid --config-file=/var/snap/docker/423/config/daemon.json
+root         941       1  0 May05 ?        00:01:41 /bin/bash /snap/microk8s/1378/apiservice-kicker
+root         944       1  0 May05 ?        00:00:00 /bin/bash /snap/microk8s/1378/run-cluster-agent-with-args
+root         955       1  6 May05 ?        02:25:24 /snap/microk8s/1378/kube-controller-manager --kubeconfig=/var/snap/microk8s/1378/credentials/controller.config --service-account-private-key-file=/var/snap/microk8s/1378/certs/serviceaccount.key --root-ca-file=/var/snap/microk8s/1378/certs/ca.crt --cluster-signing-cert-file=/var/snap/microk8s/1378/certs/ca.crt --cluster-signing-key-file=/var/snap/microk8s/1378/certs/ca.key --address=127.0.0.1 --use-service-account-credentials
+root         957       1  0 May05 ?        00:02:08 /snap/microk8s/1378/opt/cni/bin/flanneld --iface= --etcd-endpoints=https://127.0.0.1:12379 --etcd-cafile=/var/snap/microk8s/1378/certs/ca.crt --etcd-certfile=/var/snap/microk8s/1378/certs/server.crt --etcd-keyfile=/var/snap/microk8s/1378/certs/server.key --subnet-file=/var/snap/microk8s/common/run/flannel/subnet.env
+root        1009       1  0 May05 ?        00:17:59 /snap/microk8s/1378/kube-scheduler --kubeconfig=/var/snap/microk8s/1378/credentials/scheduler.config --address=127.0.0.1
+root        1014       1  0 May05 ?        00:00:26 /usr/lib/snapd/snapd
+root        1054       1  0 May05 ?        00:00:04 /lib/systemd/systemd-logind
+root        1083       1  0 May05 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root        1145       1  0 May05 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root        1203       1  0 May05 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1223       1  0 May05 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root        1263     944  0 May05 ?        00:00:27 python3 /snap/microk8s/1378/usr/bin/gunicorn3 cluster.agent:app --bind 0.0.0.0:25000 --keyfile /var/snap/microk8s/1378/certs/server.key --certfile /var/snap/microk8s/1378/certs/server.crt
+root        1450     938  0 May05 ?        00:11:25 containerd --config /var/snap/docker/423/run/docker/containerd/containerd.toml --log-level error
+root        2074    1263  0 May05 ?        00:00:04 python3 /snap/microk8s/1378/usr/bin/gunicorn3 cluster.agent:app --bind 0.0.0.0:25000 --keyfile /var/snap/microk8s/1378/certs/server.key --certfile /var/snap/microk8s/1378/certs/server.crt
+root        2256       1  5 May05 ?        02:12:02 /snap/microk8s/1378/etcd --data-dir=/var/snap/microk8s/common/var/run/etcd --advertise-client-urls=https://10.254.0.20:12379 --listen-client-urls=https://0.0.0.0:12379 --client-cert-auth --trusted-ca-file=/var/snap/microk8s/1378/certs/ca.crt --cert-file=/var/snap/microk8s/1378/certs/server.crt --key-file=/var/snap/microk8s/1378/certs/server.key --enable-v2=true
+root        2273       1  1 May05 ?        00:26:52 /snap/microk8s/1378/bin/containerd --config /var/snap/microk8s/1378/args/containerd.toml --root /var/snap/microk8s/common/var/lib/containerd --state /var/snap/microk8s/common/run/containerd --address /var/snap/microk8s/common/run/containerd.sock
+root        2452       1 10 May05 ?        04:04:48 /snap/microk8s/1378/kube-apiserver --cert-dir=/var/snap/microk8s/1378/certs --service-cluster-ip-range=10.152.183.0/24 --authorization-mode=AlwaysAllow --basic-auth-file=/var/snap/microk8s/1378/credentials/basic_auth.csv --service-account-key-file=/var/snap/microk8s/1378/certs/serviceaccount.key --client-ca-file=/var/snap/microk8s/1378/certs/ca.crt --tls-cert-file=/var/snap/microk8s/1378/certs/server.crt --tls-private-key-file=/var/snap/microk8s/1378/certs/server.key --kubelet-client-certificate=/var/snap/microk8s/1378/certs/server.crt --kubelet-client-key=/var/snap/microk8s/1378/certs/server.key --secure-port=16443 --token-auth-file=/var/snap/microk8s/1378/credentials/known_tokens.csv --token-auth-file=/var/snap/microk8s/1378/credentials/known_tokens.csv --etcd-servers=https://127.0.0.1:12379 --etcd-cafile=/var/snap/microk8s/1378/certs/ca.crt --etcd-certfile=/var/snap/microk8s/1378/certs/server.crt --etcd-keyfile=/var/snap/microk8s/1378/certs/server.key --insecure-port=0 --requestheader-client-ca-file=/var/snap/microk8s/1378/certs/front-proxy-ca.crt --requestheader-allowed-names=front-proxy-client --requestheader-extra-headers-prefix=X-Remote-Extra- --requestheader-group-headers=X-Remote-Group --requestheader-username-headers=X-Remote-User --proxy-client-cert-file=/var/snap/microk8s/1378/certs/front-proxy-client.crt --proxy-client-key-file=/var/snap/microk8s/1378/certs/front-proxy-client.key
+root        2459       1  0 May05 ?        00:02:46 /snap/microk8s/1378/kube-proxy --kubeconfig=/var/snap/microk8s/1378/credentials/proxy.config --cluster-cidr=10.152.183.0/24 --healthz-bind-address=127.0.0.1
+root        2586       1  3 May05 ?        01:28:11 /snap/microk8s/1378/kubelet --kubeconfig=/var/snap/microk8s/1378/credentials/kubelet.config --cert-dir=/var/snap/microk8s/1378/certs --client-ca-file=/var/snap/microk8s/1378/certs/ca.crt --anonymous-auth=false --network-plugin=cni --root-dir=/var/snap/microk8s/common/var/lib/kubelet --fail-swap-on=false --cni-conf-dir=/var/snap/microk8s/1378/args/cni-network/ --cni-bin-dir=/snap/microk8s/1378/opt/cni/bin/ --feature-gates=DevicePlugins=true --eviction-hard=memory.available<100Mi,nodefs.available<1Gi,imagefs.available<1Gi --container-runtime=remote --container-runtime-endpoint=/var/snap/microk8s/common/run/containerd.sock --containerd=/var/snap/microk8s/common/run/containerd.sock --node-labels=microk8s.io/cluster=true --runtime-cgroups=/systemd/system.slice --kubelet-cgroups=/systemd/system.slice --cluster-domain=cluster.local --cluster-dns=10.152.183.10
+root        2894    2273  0 May05 ?        00:00:09 containerd-shim -namespace k8s.io -workdir /var/snap/microk8s/common/var/lib/containerd/io.containerd.runtime.v1.linux/k8s.io/27c1ecab8e3b21547149f8e03ec4077a1a80bc00fd583c7583a645f2dc9de9d4 -address /var/snap/microk8s/common/run/containerd.sock -containerd-binary /snap/microk8s/1378/bin/containerd -debug
+root        2923    2894  0 May05 ?        00:00:00 /pause
+root        3020    2273  0 May05 ?        00:00:10 containerd-shim -namespace k8s.io -workdir /var/snap/microk8s/common/var/lib/containerd/io.containerd.runtime.v1.linux/k8s.io/666455906a1d07c03baa5512f0c4f0c9bc04946eee9fba1ea0559eaf7126ff38 -address /var/snap/microk8s/common/run/containerd.sock -containerd-binary /snap/microk8s/1378/bin/containerd -debug
+root        3038    3020  0 May05 ?        00:00:00 /pause
+root        3183    2273  0 May05 ?        00:00:08 containerd-shim -namespace k8s.io -workdir /var/snap/microk8s/common/var/lib/containerd/io.containerd.runtime.v1.linux/k8s.io/08fe95498a853e1f4b6e12b579a20fd5af2b55b65e34bf830850873a38501909 -address /var/snap/microk8s/common/run/containerd.sock -containerd-binary /snap/microk8s/1378/bin/containerd -debug
+root        3215    3183  0 May05 ?        00:00:00 /pause
+root        3262    2273  0 May05 ?        00:00:23 containerd-shim -namespace k8s.io -workdir /var/snap/microk8s/common/var/lib/containerd/io.containerd.runtime.v1.linux/k8s.io/fa75b9f2d1eae55f8b845c03b9c530053ef8f099439ef3a93f6c5fab38c6e45b -address /var/snap/microk8s/common/run/containerd.sock -containerd-binary /snap/microk8s/1378/bin/containerd -debug
+root        3285    3262  0 May05 ?        00:15:33 /coredns -conf /etc/coredns/Corefile
+root      202116       2  0 May06 ?        00:00:00 [loop10]
+root     1054530       2  0 09:20 ?        00:00:00 [kworker/7:1-events]
+root     1064461    1145  0 09:42 ?        00:00:00 sshd: asemencha [priv]
+root     1072649       2  0 10:00 ?        00:00:00 [kworker/3:0-events]
+root     1072650       2  0 10:00 ?        00:00:00 [kworker/4:1-events]
+root     1080736       2  0 10:17 ?        00:00:00 [kworker/2:3-mm_percpu_wq]
+root     1083286       2  0 10:23 ?        00:00:00 [kworker/0:2-rcu_par_gp]
+root     1083296       2  0 10:23 ?        00:00:01 [kworker/0:3-events]
+root     1085833       2  0 10:28 ?        00:00:00 [kworker/5:6-cgroup_pidlist_destroy]
+root     1085834       2  0 10:28 ?        00:00:00 [kworker/5:7-events]
+root     1086508       2  0 10:30 ?        00:00:01 [kworker/u480:0-events_unbound]
+root     1088035       1  0 10:33 ?        00:00:00 /usr/libexec/fwupd/fwupd
+root     1088078       2  0 10:33 ?        00:00:00 [kworker/6:2-rcu_gp]
+root     1088095       2  0 10:33 ?        00:00:00 [kworker/4:0-rcu_par_gp]
+root     1090611       2  0 10:39 ?        00:00:00 [kworker/1:0-events]
+root     1090612       2  0 10:39 ?        00:00:00 [kworker/2:0-rcu_par_gp]
+root     1090648       2  0 10:39 ?        00:00:00 [kworker/7:0-rcu_par_gp]
+root     1090649       2  0 10:39 ?        00:00:00 [kworker/3:1-rcu_par_gp]
+root     1090908       2  0 10:40 ?        00:00:00 [kworker/6:1-events]
+root     1090915       2  0 10:40 ?        00:00:00 [kworker/u480:1-efi_rts_wq]
+root     1090947       2  0 10:40 ?        00:00:00 [kworker/1:3-rcu_par_gp]
+root     1093238       2  0 10:45 ?        00:00:00 [kworker/1:1-rcu_par_gp]
+root     1093239       2  0 10:45 ?        00:00:00 [kworker/4:2]
+root     1093255       2  0 10:45 ?        00:00:00 [kworker/2:1-rcu_par_gp]
+root     1093273       2  0 10:45 ?        00:00:00 [kworker/7:2]
+root     1093274       2  0 10:45 ?        00:00:00 [kworker/0:0]
+root     1093357       2  0 10:45 ?        00:00:00 [kworker/u480:2-events_power_efficient]
+root     1093541       2  0 10:45 ?        00:00:00 [kworker/3:2-events]
+root     1093564       2  0 10:45 ?        00:00:00 [kworker/5:0-mm_percpu_wq]
