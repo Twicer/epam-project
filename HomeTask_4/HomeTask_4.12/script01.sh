@@ -36,7 +36,7 @@ do
     # the path to the shell,
     # group membership,
     # the presence of a generated password
-    useradd -d /home/"$maskUsers$count" -s $shellPath -g "$maskUsers$count" -m -p $passwordUser "$maskUsers$count"
+    useradd -d /home/"$maskUsers$count" -s $shellPath -g "$maskUsers$count" -p $(openssl passwd -1 $passwordUser) -m "$maskUsers$count"
     #   Writing generated data to a file
     echo -e ""$maskUsers$count"   | $passwordUser"\n >> "$maskUsers$count"-login-password.txt
     echo -e "$maskUsers$count" >> users.txt
