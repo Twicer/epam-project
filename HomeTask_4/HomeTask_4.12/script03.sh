@@ -23,3 +23,5 @@
 #   Describe the current status of the hard disk partitions available on your system.
 # Information in the log.
 
+vmstat -wdt 3 30 > vmstat_disk.log
+vmstat -wt 3 30 > vmstat_memory.log

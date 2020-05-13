@@ -9,9 +9,6 @@
 # and also create a user * file for each user -login-password.txt,
 # in which to put the username and the generated password.
 
-#   The constant that stores the path to the shell
-shellPath="/bin/bash"
-
 #   Data entry for user generation - name mask, number of created users and password length
 read -p "Enter a mask to create users: " maskUsers                          #   name mask
 read -p "Enter the number of users that need to create: " countUsers        #   number of created users
@@ -36,7 +33,7 @@ do
     # the path to the shell,
     # group membership,
     # the presence of a generated password
-    useradd -d /home/"$maskUsers$count" -s $shellPath -g "$maskUsers$count" -p $(echo $passwordUser | openssl passwd -1 -stdin) -m "$maskUsers$count"
+    useradd -d /home/"$maskUsers$count" -s $SHELL -g "$maskUsers$count" -p $(echo $passwordUser | openssl passwd -1 -stdin) -m "$maskUsers$count"
     #   Writing generated data to a file
     echo -e ""$maskUsers$count"   | $passwordUser"\n >> "$maskUsers$count"-login-password.txt
     echo -e "$maskUsers$count" >> users.txt
